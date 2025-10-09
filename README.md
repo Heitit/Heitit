@@ -5,7 +5,7 @@ Sou um iniciante na área da tecnologia, pois venho de uma transição de carrei
 Busco sempre me aprimorar e buscar ser o melhor de mim mesmo. Para tal, estou estudando linguagens voltadas para o _back-end_.
 
 ## Sobre mim:
-- Tenho 23 anos.
+- Tenho 24 anos.
 - Moro em São Paulo, na região de Jundiaí.
 - Curso Análise e Desenvolvimento de Sistemas no Centro Universitário de Campo Limpo Paulista (Unifaccamp).
 - Amo ouvir música e ler mangás.
