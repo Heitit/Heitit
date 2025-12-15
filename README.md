@@ -2,7 +2,7 @@
 
 ## Bem-vindo ao perfil do Github!
 Sou um iniciante na área da tecnologia, pois venho de uma transição de carreira, e desejo ao máximo aprimorar minhas habilidades e conhecimento como desenvolvedor.
-Busco sempre me aprimorar e buscar ser o melhor de mim mesmo. Para tal, estou estudando linguagens voltadas para o _back-end_.
+Atualmente, estou aprendendo Java por meio do curso da Udemy. E busco com ele poder atuar no Back-end de grandes sistemas web e aplicações corporativas.
 
 ## Sobre mim:
 - Tenho 24 anos.
