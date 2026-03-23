@@ -20,16 +20,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas** (Unifaccamp) em transiç
 - Desenvolvimento de um pipeline que extrai dados reais do mercado de criptomoedas.
 - Tratamento de dados e armazenamento estruturado para consultas rápidas.
 
-
----
-
-### 📊 Estatísticas e Atividade
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Heitit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heitit&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 ---
 
 ### 📫 Vamos nos conectar?
