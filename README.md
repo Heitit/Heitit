@@ -20,6 +20,11 @@ Estudante de **Análise e Desenvolvimento de Sistemas** (Unifaccamp) em transiç
 - Desenvolvimento de um pipeline que extrai dados reais do mercado de criptomoedas.
 - Tratamento de dados e armazenamento estruturado para consultas rápidas.
 
+#### ☕ [Sistema de Gestão de Estoque](https://github.com/Heitit/javaProjects/tree/main/src)
+**Tecnologias:** Java (POO), Encapsulamento, Construtores.
+- Sistema para controle de entradas e saídas de produtos com modelagem de entidades.
+- Foco em organização de pacotes e lógica de negócio.
+
 ---
 
 ### 📫 Vamos nos conectar?
