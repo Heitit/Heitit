@@ -1,20 +1,41 @@
-# Olá! Me chamo Heitor. 👋
+# Olá, eu sou o Heitor! 👋
 
-## Bem-vindo ao perfil do Github!
-Sou um iniciante na área da tecnologia, pois venho de uma transição de carreira, e desejo ao máximo aprimorar minhas habilidades e conhecimento como desenvolvedor.
-Atualmente, estou aprendendo Java por meio do curso da Udemy. E busco com ele poder atuar no Back-end de grandes sistemas web e aplicações corporativas.
+Estudante de **Análise e Desenvolvimento de Sistemas** (Unifaccamp) em transição de carreira. Atualmente focado em construir soluções robustas no Back-end com **Java** e automações eficientes com **Python**.
 
-## Sobre mim:
-- Tenho 24 anos.
-- Moro em São Paulo, na região de Jundiaí.
-- Curso Análise e Desenvolvimento de Sistemas no Centro Universitário de Campo Limpo Paulista (Unifaccamp).
-- Amo ouvir música e ler mangás.
+---
 
-## Estou aprendendo:
-<img width="80" height="75" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />    <img width="75" height="75" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+### 🛠️ Tecnologias e Ferramentas
 
-## Contatos:
-<div>
-<a href = "mailto:heitor.hantonio2@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/heitormarquesjunior" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>          
+* **Linguagens:** Java (POO, Spring Boot), Python (Pandas, Automação).
+* **Banco de Dados:** SQLite, PostgreSQL, MySQL.
+* **Ferramentas:** Git, GitHub, Excel Avançado.
+* **Sistemas:** Experiência com rotinas administrativas e suporte operacional.
+
+---
+
+### 🚀 Projetos em Destaque
+
+#### 🐍 [Crypto Data Pipeline](https://github.com/Heitit/crypto-data-pipeline)
+**Tecnologias:** Python, API CoinGecko, SQLite.
+- Desenvolvimento de um pipeline que extrai dados reais do mercado de criptomoedas.
+- Tratamento de dados e armazenamento estruturado para consultas rápidas.
+
+
+---
+
+### 📊 Estatísticas e Atividade
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Heitit&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heitit&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+---
+
+### 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitormarquesjunior)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heitor.hantonio2@gmail.com)
+
+---
+*“Sempre em busca de aprender novas tecnologias e resolver problemas reais através do código.”*
